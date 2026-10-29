@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-170-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-220-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-10-29-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`170`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `30` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `42` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `98` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `57` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `75` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `30` | Associate PM, Technical Product Analyst |
-| 📈 **Quantitative Trading** | `8` | Quant Dev, Algo Trading, Financial Engineering |
+| **Total Active Opportunities** | **`220`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `31` | Summer, Winter, Off-Cycle, and Co-op placements |
+| 🚀 **Graduate Schemes / Traineeships** | `46` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `143` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `61` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `108` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `42` | Associate PM, Technical Product Analyst |
+| 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`ByteDance`, `Revolut`, `Bybit`, `Binance`, `WSP in the Middle East`, `Deliveryhero`, `Ghobashgroup`, `Delivery Hero / Talabat`
+`Jobgether`, `ByteDance`, `Revolut`, `Bybit`, `WSP in the Middle East`, `Binance`, `Deliveryhero`, `Ghobashgroup`
 
 ---
 
@@ -33,16 +33,16 @@
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **Weatherford** | AI Specialist - (UAE National) | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4477143696) |
 | **Ghobashgroup** | QC Inspector, Welding & Painting | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, UAE | [Apply ↗](https://jobs.smartrecruiters.com/ghobashgroup/744000158439389) |
-| **Bybit** | Animator Intern | `Internship` | AI & Data | Abu Dhabi, UAE; APAC - Remote | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4974752101) |
-| **Bybit** | Blockchain Expert | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4860230101) |
-| **Bybit** | Card Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4944311101) |
-| **Bybit** | P2P Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4990732101) |
-| **Bybit** | Paid Media Creative Expert | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, UAE; Kuala Lumpur, Malaysia | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4947308101) |
-| **Bybit** | RWA Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4953468101) |
-| **Binance** | Binance Accelerator Program - Data Scientist, Analytics | `Early Career (0-2 yrs)` | AI & Data | Australia; Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5002258101) |
-| **Binance** | Binance Accelerator Program - Internal Audit (Technology) | `Internship` | Product Management (APM) | Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5002254101) |
+| **Property Finder** | Engineering Graduate Trainee | `Graduate Program` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4475412607) |
+| **Property Finder** | Associate AI Product Builder | `Early Career (0-2 yrs)` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4476322990) |
+| **Property Finder** | Associate, Product Analytics | `Early Career (0-2 yrs)` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4482084703) |
+| **etisalat UAE** | AI Graduate Programme | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4430969726) |
+| **WSP in the Middle East** | Graduate Engineer - Mechanical (Dry Utilities) _Emirati National | `Graduate Program` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4466202228) |
+| **JR Automation** | Emiratization Trainee Program | `Graduate Program` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484960973) |
+| **Modon** | Graduate Trainee | `Graduate Program` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484937153) |
+| **Deel** | AI Engineer, Backend | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4466206671) |
 
-👉 **[Browse Full Searchable Directory (170 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (220 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
