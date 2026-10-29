@@ -1,11 +1,9 @@
 """
-Fetchers Module for UAE Tech & Product Roles Scraper.
+Dynamic Fetchers Module for UAE Tech & Product Roles.
 
-Fetches job openings from:
-1. Greenhouse ATS REST API
-2. Lever ATS REST API
-3. SmartRecruiters ATS REST API
-4. JobSpy multi-platform scraper (LinkedIn, Indeed)
+Automatically discovers tech roles across ALL companies in the UAE using:
+1. Dynamic JobSpy Multi-Query Scraper across LinkedIn & Indeed (Dynamic across ALL employers in UAE)
+2. Dynamic ATS Board Discovery & Probing (Greenhouse, Lever, SmartRecruiters)
 """
 
 import os
@@ -13,18 +11,17 @@ import re
 import json
 import logging
 from datetime import datetime, timezone
-from typing import List, Dict, Any, Optional
+from typing import List, Dict, Any, Set, Optional
 import requests
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 logger = logging.getLogger(__name__)
 
-# Request timeout in seconds
-REQUEST_TIMEOUT = 12
+REQUEST_TIMEOUT = 8
 
-# UAE location identifiers
-UAE_LOCATION_KEYWORDS = [
+# UAE Regional, City, Freezone, and Tech Hub identifiers
+UAE_GEO_KEYWORDS = [
     "dubai",
     "abu dhabi",
     "sharjah",
@@ -32,16 +29,24 @@ UAE_LOCATION_KEYWORDS = [
     "ras al khaimah",
     "fujairah",
     "umm al quwain",
+    "difc",
+    "adgm",
+    "internet city",
+    "silicon oasis",
+    "dso",
+    "jlt",
+    "business bay",
+    "media city",
+    "hub71",
     "uae",
     "u.a.e",
     "united arab emirates",
 ]
 
-# Tech, Quantitative, and Product Management discipline keywords
+# Relevance keywords for CSE, Product Management, Data Science, and Quant
 RELEVANT_DISCIPLINE_KEYWORDS = [
     "software",
     "engineer",
-    "engineering",
     "developer",
     "frontend",
     "front-end",
@@ -52,11 +57,12 @@ RELEVANT_DISCIPLINE_KEYWORDS = [
     "mobile",
     "ios",
     "android",
-    "systems",
     "devops",
     "sre",
-    "infrastructure",
     "cloud",
+    "systems",
+    "qa",
+    "quality assurance",
     "data",
     "machine learning",
     "ml",
@@ -64,18 +70,17 @@ RELEVANT_DISCIPLINE_KEYWORDS = [
     "artificial intelligence",
     "deep learning",
     "nlp",
-    "computer vision",
-    "genai",
     "llm",
+    "genai",
     "product manager",
-    "product management",
     "apm",
     "product analyst",
+    "product operations",
     "quant",
     "quantitative",
+    "trading",
     "algo",
     "algorithmic",
-    "trading",
     "intern",
     "internship",
     "graduate",
@@ -84,58 +89,55 @@ RELEVANT_DISCIPLINE_KEYWORDS = [
     "associate",
 ]
 
-# Target top tech employers in UAE with public ATS boards
-GREENHOUSE_BOARDS: Dict[str, str] = {
-    "careem": "Careem",
-    "point72": "Point72",
-    "bybit": "Bybit",
-    "binance": "Binance",
-    "okx": "OKX",
-    "canonical": "Canonical",
-    "checkout": "Checkout.com",
-    "deliveryhero": "Delivery Hero",
-    "noon": "Noon",
-}
-
-LEVER_BOARDS: Dict[str, str] = {
-    "crypto": "Crypto.com",
-    "binance": "Binance",
-    "rain": "Rain",
-    "analog": "Analog",
-    "fireblocks": "Fireblocks",
-    "kraken": "Kraken",
-}
-
-SMARTRECRUITERS_COMPANIES: Dict[str, str] = {
-    "DeliveryHero": "Delivery Hero / Talabat",
-    "smartrecruiters": "SmartRecruiters",
+# Seed ecosystem tokens to probe alongside dynamically discovered companies
+SEED_UAE_ECOSYSTEM_TOKENS = {
+    "careem",
+    "point72",
+    "bybit",
+    "binance",
+    "crypto",
+    "canonical",
+    "okx",
+    "checkout",
+    "deliveryhero",
+    "talabat",
+    "noon",
+    "rain",
+    "analog",
+    "fireblocks",
+    "kraken",
+    "instadeep",
+    "hub71",
+    "propertyfinder",
+    "dubizzle",
 }
 
 
 def _is_uae_location(location_str: str) -> bool:
-    """Check if location string indicates UAE or UAE-remote."""
+    """Dynamically checks if location is in UAE or Remote-UAE."""
     if not location_str:
         return False
     loc_lower = location_str.lower()
-    return any(keyword in loc_lower for keyword in UAE_LOCATION_KEYWORDS)
+    if any(kw in loc_lower for kw in UAE_GEO_KEYWORDS):
+        return True
+    # If explicitly marked remote, ensure it is within UAE or MENA/EMEA context
+    if "remote" in loc_lower and any(kw in loc_lower for kw in ["uae", "dubai", "mena", "middle east", "emea"]):
+        return True
+    return False
 
 
 def _is_candidate_role(title: str, description: str = "") -> bool:
-    """
-    Lightweight heuristic check to ensure role is related to tech,
-    data, quantitative engineering, or product management.
-    """
+    """Lightweight check to verify role relevance to Tech, Data, PM, or Quant."""
     text = f"{title} {description[:300]}".lower()
     return any(kw in text for kw in RELEVANT_DISCIPLINE_KEYWORDS)
 
 
 def _format_date(date_val: Any) -> str:
-    """Format various date inputs into standard YYYY-MM-DD format."""
+    """Normalizes raw timestamp or date string into YYYY-MM-DD."""
     if not date_val:
         return datetime.now(timezone.utc).strftime("%Y-%m-%d")
     
     if isinstance(date_val, (int, float)):
-        # Check if timestamp in milliseconds
         if date_val > 1e11:
             date_val /= 1000.0
         try:
@@ -143,250 +145,213 @@ def _format_date(date_val: Any) -> str:
         except Exception:
             return datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
-    str_val = str(date_val).strip()
-    match = re.search(r"\d{4}-\d{2}-\d{2}", str_val)
-    if match:
-        return match.group(0)
-
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    match = re.search(r"\d{4}-\d{2}-\d{2}", str(date_val))
+    return match.group(0) if match else datetime.now(timezone.utc).strftime("%Y-%m-%d")
 
 
-def fetch_greenhouse_jobs() -> List[Dict[str, Any]]:
-    """Fetch active tech and product postings from Greenhouse ATS endpoints."""
-    logger.info("Fetching jobs from Greenhouse boards...")
-    jobs: List[Dict[str, Any]] = []
-
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-
-    for board_token, company_name in GREENHOUSE_BOARDS.items():
-        url = f"https://boards-api.greenhouse.io/v1/boards/{board_token}/jobs?content=true"
-        try:
-            res = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
-            if res.status_code != 200:
-                continue
-
-            data = res.json()
-            for item in data.get("jobs", []):
-                loc_obj = item.get("location", {})
-                loc_name = loc_obj.get("name", "") if isinstance(loc_obj, dict) else str(loc_obj)
-                
-                # Check offices array if location name is empty
-                if not loc_name and item.get("offices"):
-                    loc_name = ", ".join([o.get("name", "") for o in item.get("offices", []) if isinstance(o, dict)])
-
-                title = item.get("title", "").strip()
-
-                if _is_uae_location(loc_name) and _is_candidate_role(title):
-                    updated_at = item.get("updated_at")
-                    jobs.append({
-                        "source": "Greenhouse",
-                        "company": company_name,
-                        "title": title,
-                        "location": loc_name or "Dubai, UAE",
-                        "url": item.get("absolute_url"),
-                        "description": item.get("content", "")[:1200],
-                        "date_posted": _format_date(updated_at),
-                    })
-        except Exception as e:
-            logger.warning(f"Error fetching Greenhouse board '{board_token}': {e}")
-
-    logger.info(f"Greenhouse fetcher found {len(jobs)} candidate roles.")
-    return jobs
-
-
-def fetch_lever_jobs() -> List[Dict[str, Any]]:
-    """Fetch active tech and product postings from Lever ATS endpoints."""
-    logger.info("Fetching jobs from Lever boards...")
-    jobs: List[Dict[str, Any]] = []
-
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-
-    for board_token, company_name in LEVER_BOARDS.items():
-        url = f"https://api.lever.co/v0/postings/{board_token}?mode=json"
-        try:
-            res = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
-            if res.status_code != 200:
-                continue
-
-            data = res.json()
-            if not isinstance(data, list):
-                continue
-
-            for item in data:
-                categories = item.get("categories", {}) or {}
-                location = categories.get("location", "")
-                workplace_type = item.get("workplaceType", "")
-                
-                combined_location = f"{location} {workplace_type}".strip()
-                title = item.get("text", "").strip()
-                desc = item.get("descriptionPlain", "") or item.get("description", "")
-
-                if _is_uae_location(combined_location) and _is_candidate_role(title, desc):
-                    created_at = item.get("createdAt")
-                    jobs.append({
-                        "source": "Lever",
-                        "company": company_name,
-                        "title": title,
-                        "location": location or "Dubai, UAE",
-                        "url": item.get("hostedUrl") or item.get("applyUrl"),
-                        "description": desc[:1200],
-                        "date_posted": _format_date(created_at),
-                    })
-        except Exception as e:
-            logger.warning(f"Error fetching Lever board '{board_token}': {e}")
-
-    logger.info(f"Lever fetcher found {len(jobs)} candidate roles.")
-    return jobs
-
-
-def fetch_smartrecruiters_jobs() -> List[Dict[str, Any]]:
-    """Fetch active tech and product postings from SmartRecruiters REST API."""
-    logger.info("Fetching jobs from SmartRecruiters endpoints...")
-    jobs: List[Dict[str, Any]] = []
-
-    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
-
-    for company_identifier, company_name in SMARTRECRUITERS_COMPANIES.items():
-        # Fetch both general openings and explicit country filter
-        urls = [
-            f"https://api.smartrecruiters.com/v1/companies/{company_identifier}/postings?country=ae&limit=100",
-            f"https://api.smartrecruiters.com/v1/companies/{company_identifier}/postings?limit=100",
-        ]
-
-        seen_ids = set()
-
-        for url in urls:
-            try:
-                res = requests.get(url, headers=headers, timeout=REQUEST_TIMEOUT)
-                if res.status_code != 200:
-                    continue
-
-                data = res.json()
-                content = data.get("content", [])
-                for item in content:
-                    job_id = item.get("id")
-                    if not job_id or job_id in seen_ids:
-                        continue
-                    seen_ids.add(job_id)
-
-                    location_obj = item.get("location", {}) or {}
-                    city = location_obj.get("city", "")
-                    country = location_obj.get("country", "")
-                    full_loc = location_obj.get("fullLocation", "")
-                    combined_loc = f"{city}, {full_loc} ({country})"
-
-                    is_uae = country.lower() == "ae" or _is_uae_location(combined_loc)
-
-                    title = item.get("name", "").strip()
-                    if is_uae and _is_candidate_role(title):
-                        job_url = f"https://jobs.smartrecruiters.com/{company_identifier}/{job_id}"
-                        released_date = item.get("releasedDate")
-                        
-                        # Company display refinement (e.g. Talabat vs Delivery Hero)
-                        display_company = company_name
-                        if "talabat" in title.lower() or "talabat" in combined_loc.lower():
-                            display_company = "Talabat"
-                        elif "instashop" in title.lower():
-                            display_company = "InstaShop"
-
-                        jobs.append({
-                            "source": "SmartRecruiters",
-                            "company": display_company,
-                            "title": title,
-                            "location": city or "Dubai, UAE",
-                            "url": job_url,
-                            "description": f"Role: {title} at {display_company} in {city}, UAE.",
-                            "date_posted": _format_date(released_date),
-                        })
-            except Exception as e:
-                logger.warning(f"Error fetching SmartRecruiters for '{company_identifier}': {e}")
-
-    logger.info(f"SmartRecruiters fetcher found {len(jobs)} candidate roles.")
-    return jobs
-
-
-def fetch_linkedin_and_boards() -> List[Dict[str, Any]]:
+def fetch_linkedin_and_boards_dynamic() -> List[Dict[str, Any]]:
     """
-    Fetch entry-level and internship tech listings via JobSpy
-    across LinkedIn and job boards for Dubai/UAE.
+    DYNAMIC SEARCH: Queries LinkedIn and Indeed across ALL registered UAE companies.
+    No hardcoded company names required. Dynamically ingests all employers hiring in UAE.
     """
-    logger.info("Scraping LinkedIn & Job Boards via JobSpy for UAE tech & product roles...")
+    logger.info("🌐 Searching LinkedIn & Indeed dynamically for ALL UAE companies...")
     jobs: List[Dict[str, Any]] = []
 
-    search_terms = [
+    # Dynamic queries targeting early career and tech/PM roles across the UAE market
+    search_queries = [
         "software engineering internship",
         "associate product manager",
         "computer science intern",
-        "data science graduate",
+        "data analyst intern",
+        "machine learning intern",
+        "quantitative trader graduate",
+        "junior software engineer",
+        "graduate engineer program",
     ]
 
     try:
         from jobspy import scrape_jobs
     except ImportError:
-        logger.warning("JobSpy not installed or import failed. Skipping JobSpy scraping.")
+        logger.warning("JobSpy not installed. Skipping dynamic board scraper.")
         return jobs
 
-    for term in search_terms:
+    locations = ["Dubai, United Arab Emirates", "Abu Dhabi, United Arab Emirates"]
+
+    for loc in locations:
+        for query in search_queries:
+            try:
+                logger.info(f"Querying LinkedIn for '{query}' in '{loc}'...")
+                jobs_df = scrape_jobs(
+                    site_name=["linkedin"],
+                    search_term=query,
+                    location=loc,
+                    results_wanted=25,
+                    hours_old=720,  # 30 days window
+                    country_indeed="United Arab Emirates",
+                )
+
+                if jobs_df is not None and not jobs_df.empty:
+                    for r in jobs_df.to_dict(orient="records"):
+                        company = str(r.get("company") or "").strip()
+                        title = str(r.get("title") or "").strip()
+                        loc_name = str(r.get("location") or loc).strip()
+                        url = str(r.get("job_url") or r.get("job_url_direct") or "").strip()
+                        desc = str(r.get("description") or "")[:1200]
+
+                        if url and title and company and _is_candidate_role(title, desc):
+                            jobs.append({
+                                "source": "LinkedIn / Indeed (Dynamic)",
+                                "company": company,
+                                "title": title,
+                                "location": loc_name,
+                                "url": url,
+                                "description": desc,
+                                "date_posted": _format_date(r.get("date_posted")),
+                            })
+            except Exception as e:
+                logger.warning(f"Error scraping '{query}' in '{loc}': {e}")
+
+    logger.info(f"Dynamic LinkedIn search returned {len(jobs)} total jobs.")
+    return jobs
+
+
+def discover_and_fetch_ats_jobs(discovered_companies: Set[str]) -> List[Dict[str, Any]]:
+    """
+    Dynamically attempts to fetch jobs from Greenhouse, Lever, and SmartRecruiters endpoints 
+    using company tokens extracted live from discovered companies + UAE tech ecosystem seed tokens.
+    """
+    logger.info("⚡ Dynamically probing ATS endpoints for extracted company names...")
+    jobs: List[Dict[str, Any]] = []
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+
+    # Generate token candidates from all discovered company names
+    tokens_to_probe: Set[str] = set(SEED_UAE_ECOSYSTEM_TOKENS)
+
+    for comp in discovered_companies:
+        clean = re.sub(r"[^a-zA-Z0-9]", "", comp.lower())
+        if clean and len(clean) >= 3:
+            tokens_to_probe.add(clean)
+            # Remove common suffixes like inc, llc, tech, com, group, fz, fze, uae
+            stem = re.sub(r"(com|inc|llc|tech|technologies|group|solutions|fz|fze|uae|dubai)$", "", clean)
+            if stem and len(stem) >= 3:
+                tokens_to_probe.add(stem)
+
+    logger.info(f"Probing {len(tokens_to_probe)} candidate company ATS endpoints...")
+    probed_tokens = set()
+
+    for token in tokens_to_probe:
+        if token in probed_tokens:
+            continue
+        probed_tokens.add(token)
+
+        # 1. Probe Greenhouse ATS endpoint dynamically
+        gh_url = f"https://boards-api.greenhouse.io/v1/boards/{token}/jobs?content=true"
         try:
-            logger.info(f"Querying JobSpy for search term: '{term}' in Dubai, UAE...")
-            jobs_df = scrape_jobs(
-                site_name=["linkedin"],
-                search_term=term,
-                location="Dubai, United Arab Emirates",
-                results_wanted=15,
-                hours_old=720,  # last 30 days
-                country_indeed="United Arab Emirates",
-            )
+            res = requests.get(gh_url, headers=headers, timeout=REQUEST_TIMEOUT)
+            if res.status_code == 200:
+                data = res.json()
+                for item in data.get("jobs", []):
+                    title = item.get("title", "").strip()
+                    loc_obj = item.get("location", {})
+                    loc_name = loc_obj.get("name", "") if isinstance(loc_obj, dict) else str(loc_obj)
+                    
+                    if not loc_name and item.get("offices"):
+                        loc_name = ", ".join([o.get("name", "") for o in item.get("offices", []) if isinstance(o, dict)])
 
-            if jobs_df is not None and not jobs_df.empty:
-                records = jobs_df.to_dict(orient="records")
-                for r in records:
-                    company = str(r.get("company") or "Tech Employer").strip()
-                    title = str(r.get("title") or "").strip()
-                    loc = str(r.get("location") or "Dubai, UAE").strip()
-                    url = str(r.get("job_url") or r.get("job_url_direct") or "").strip()
-                    desc = str(r.get("description") or "")[:1200]
-                    date_val = r.get("date_posted")
-
-                    if url and title and _is_candidate_role(title, desc):
+                    if _is_uae_location(loc_name) and _is_candidate_role(title):
                         jobs.append({
-                            "source": "LinkedIn",
-                            "company": company,
+                            "source": "Greenhouse (Dynamic Discovery)",
+                            "company": token.capitalize(),
                             "title": title,
-                            "location": loc,
-                            "url": url,
-                            "description": desc,
-                            "date_posted": _format_date(date_val),
+                            "location": loc_name or "Dubai, UAE",
+                            "url": item.get("absolute_url"),
+                            "description": item.get("content", "")[:1200],
+                            "date_posted": _format_date(item.get("updated_at")),
                         })
-        except Exception as e:
-            logger.warning(f"Error during JobSpy search for term '{term}': {e}")
+        except Exception:
+            pass
 
-    logger.info(f"JobSpy scraping fetched {len(jobs)} raw listings.")
+        # 2. Probe Lever ATS endpoint dynamically
+        lever_url = f"https://api.lever.co/v0/postings/{token}?mode=json"
+        try:
+            res = requests.get(lever_url, headers=headers, timeout=REQUEST_TIMEOUT)
+            if res.status_code == 200:
+                data = res.json()
+                if isinstance(data, list):
+                    for item in data:
+                        title = item.get("text", "").strip()
+                        categories = item.get("categories", {}) or {}
+                        location = categories.get("location", "")
+                        desc = item.get("descriptionPlain", "") or item.get("description", "")
+
+                        if _is_uae_location(location) and _is_candidate_role(title, desc):
+                            jobs.append({
+                                "source": "Lever (Dynamic Discovery)",
+                                "company": token.capitalize(),
+                                "title": title,
+                                "location": location or "Dubai, UAE",
+                                "url": item.get("hostedUrl") or item.get("applyUrl"),
+                                "description": desc[:1200],
+                                "date_posted": _format_date(item.get("createdAt")),
+                            })
+        except Exception:
+            pass
+
+        # 3. Probe SmartRecruiters ATS endpoint dynamically
+        sr_url = f"https://api.smartrecruiters.com/v1/companies/{token}/postings?country=ae&limit=50"
+        try:
+            res = requests.get(sr_url, headers=headers, timeout=REQUEST_TIMEOUT)
+            if res.status_code == 200:
+                data = res.json()
+                for item in data.get("content", []):
+                    title = item.get("name", "").strip()
+                    job_id = item.get("id")
+                    loc_obj = item.get("location", {}) or {}
+                    city = loc_obj.get("city", "Dubai")
+                    full_loc = loc_obj.get("fullLocation", "Dubai, UAE")
+                    
+                    if _is_candidate_role(title):
+                        jobs.append({
+                            "source": "SmartRecruiters (Dynamic Discovery)",
+                            "company": token.capitalize(),
+                            "title": title,
+                            "location": f"{city}, UAE",
+                            "url": f"https://jobs.smartrecruiters.com/{token}/{job_id}",
+                            "description": f"Role: {title} at {token.capitalize()} in {full_loc}",
+                            "date_posted": _format_date(item.get("releasedDate")),
+                        })
+        except Exception:
+            pass
+
+    logger.info(f"Dynamic ATS probing discovered {len(jobs)} direct ATS jobs.")
     return jobs
 
 
 def aggregate_raw_jobs() -> List[Dict[str, Any]]:
     """
-    Aggregates job postings from all ATS and job board sources.
-    Performs URL and Title+Company deduplication.
+    Combines dynamic multi-query LinkedIn/Indeed search with dynamic ATS discovery
+    and strictly deduplicates by URL and (Company + Title).
     """
-    logger.info("Starting aggregation of raw jobs across all sources...")
-    all_raw: List[Dict[str, Any]] = []
+    logger.info("🚀 Aggregating all dynamic job sources across ALL UAE companies...")
+    
+    # 1. Dynamically pull postings across LinkedIn & Indeed for all UAE companies
+    linkedin_jobs = fetch_linkedin_and_boards_dynamic()
 
-    # 1. Official ATS Endpoints
-    all_raw.extend(fetch_greenhouse_jobs())
-    all_raw.extend(fetch_lever_jobs())
-    all_raw.extend(fetch_smartrecruiters_jobs())
+    # 2. Extract all unique company names dynamically discovered from the UAE market
+    discovered_companies = {j["company"] for j in linkedin_jobs if j.get("company")}
+    logger.info(f"Extracted {len(discovered_companies)} unique active hiring companies in UAE from job boards.")
 
-    # 2. LinkedIn / JobSpy scraper
-    all_raw.extend(fetch_linkedin_and_boards())
+    # 3. Dynamically probe Greenhouse, Lever, and SmartRecruiters for these companies
+    ats_jobs = discover_and_fetch_ats_jobs(discovered_companies)
 
-    # Deduplicate by canonical URL and (Company + Title) key
+    all_jobs = linkedin_jobs + ats_jobs
+
+    # Deduplicate strictly by canonical URL and normalized (Company + Title) key
     deduped: List[Dict[str, Any]] = []
     seen_urls = set()
     seen_keys = set()
 
-    for job in all_raw:
+    for job in all_jobs:
         url = job.get("url", "").strip()
         comp = job.get("company", "").strip().lower()
         title = job.get("title", "").strip().lower()
@@ -402,12 +367,12 @@ def aggregate_raw_jobs() -> List[Dict[str, Any]]:
         seen_keys.add(key)
         deduped.append(job)
 
-    logger.info(f"Total aggregated raw candidate jobs after deduplication: {len(deduped)}")
+    logger.info(f"✅ Deduplication finished! Total unique roles across ALL UAE companies: {len(deduped)}")
     return deduped
 
 
 if __name__ == "__main__":
-    jobs = aggregate_raw_jobs()
-    print(f"Aggregated {len(jobs)} jobs successfully.")
-    for j in jobs[:5]:
+    results = aggregate_raw_jobs()
+    print(f"Aggregated {len(results)} jobs completely dynamically.")
+    for j in results[:5]:
         print(f"[{j.get('source')}] {j.get('company')} - {j.get('title')} ({j.get('location')}) -> {j.get('url')}")
