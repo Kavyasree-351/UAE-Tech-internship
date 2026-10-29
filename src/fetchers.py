@@ -8,11 +8,16 @@ Automatically discovers tech roles across ALL companies in the UAE using:
 
 import os
 import re
+import sys
 import json
 import logging
+from pathlib import Path
 from datetime import datetime, timezone
 from typing import List, Dict, Any, Set, Optional
 import requests
+
+# Add project root to sys.path so 'src' works when run directly
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 # Configure logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")

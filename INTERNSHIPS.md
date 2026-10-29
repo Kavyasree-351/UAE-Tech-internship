@@ -167,4 +167,4 @@
 
 ---
 
-*Automated by [GitHub Actions](https://github.com/Kavyasree-Nunna/interns-jobs/actions) and Gemini 2.5 Flash.*
+*Automated by [GitHub Actions](https://github.com/Kavyasree-351/UAE-Tech-internship/actions) and Gemini 2.5 Flash.*

@@ -66,7 +66,7 @@ def generate_readme(jobs: List[Dict[str, Any]], output_path: str = "README.md") 
 
     readme_content = f"""# 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
-[![Auto-Sync Tech Listings](https://github.com/Kavyasree-Nunna/interns-jobs/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-Nunna/interns-jobs/actions/workflows/auto_sync.yml)
+[![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
 ![Active Opportunities](https://img.shields.io/badge/Active%20Positions-{total_jobs}-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-{today}-orange)
@@ -166,7 +166,7 @@ This repository tracks early-career opportunities in the UAE:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Kavyasree-Nunna/interns-jobs.git
+   git clone https://github.com/Kavyasree-351/UAE-Tech-internship.git
    cd interns-jobs
    ```
 
@@ -186,7 +186,7 @@ This repository tracks early-career opportunities in the UAE:
 ## 🤝 Contributing & Submitting a Role
 
 Know of a tech internship or graduate program in Dubai/UAE that should be listed?
-- Feel free to open an **[Issue](https://github.com/Kavyasree-Nunna/interns-jobs/issues)** or submit a **Pull Request**.
+- Feel free to open an **[Issue](https://github.com/Kavyasree-351/UAE-Tech-internship/issues)** or submit a **Pull Request**.
 - If your company uses Greenhouse, Lever, or SmartRecruiters, add your board token to `src/fetchers.py`!
 
 *Disclaimer: All job listings and trademarks belong to their respective corporate entities. Direct application links lead directly to official employer career portals.*
@@ -273,7 +273,7 @@ def generate_internships_catalog(jobs: List[Dict[str, Any]], output_path: str = 
     content += """
 ---
 
-*Automated by [GitHub Actions](https://github.com/Kavyasree-Nunna/interns-jobs/actions) and Gemini 2.5 Flash.*
+*Automated by [GitHub Actions](https://github.com/Kavyasree-351/UAE-Tech-internship/actions) and Gemini 2.5 Flash.*
 """
 
     with open(output_path, "w", encoding="utf-8") as f:
