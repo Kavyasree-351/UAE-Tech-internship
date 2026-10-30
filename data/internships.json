@@ -270,6 +270,15 @@
     "date_posted": "2026-10-30"
   },
   {
+    "company": "Point72",
+    "title": "Cubist Quantitative Researcher",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Quant",
+    "location": "Dubai, London, Paris, Hong Kong, Sydney, Toronto",
+    "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002",
+    "date_posted": "2026-10-30"
+  },
+  {
     "company": "Weatherford",
     "title": "AI Specialist - (UAE National)",
     "category": "Early Career (0-2 yrs)",
@@ -1287,15 +1296,6 @@
     "date_posted": "2026-10-23"
   },
   {
-    "company": "Point72",
-    "title": "Cubist Quantitative Researcher",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Quant",
-    "location": "Dubai, London, Paris, Hong Kong, Sydney, Toronto",
-    "url": "https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002",
-    "date_posted": "2026-10-22"
-  },
-  {
     "company": "Delivery Hero / Talabat",
     "title": "Associate, Product Operations",
     "category": "Early Career (0-2 yrs)",
@@ -2133,6 +2133,15 @@
     "date_posted": "2026-10-09"
   },
   {
+    "company": "AiFi Technologies LLC",
+    "title": "Junior Systems Engineer - UAV Systems",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4477699512",
+    "date_posted": "2026-10-09"
+  },
+  {
     "company": "finera.",
     "title": "Product Manager",
     "category": "Early Career (0-2 yrs)",
@@ -2293,5 +2302,14 @@
     "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4484017504",
     "date_posted": "2026-10-02"
+  },
+  {
+    "company": "SteerAI",
+    "title": "Robotics Engineer - Communication",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4472913164",
+    "date_posted": "2026-10-01"
   }
 ]
