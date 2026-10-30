@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-248-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-255-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-10-30-orange)
 
@@ -13,13 +13,13 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`248`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `33` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `60` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `155` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `67` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `132` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `41` | Associate PM, Technical Product Analyst |
+| **Total Active Opportunities** | **`255`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `35` | Summer, Winter, Off-Cycle, and Co-op placements |
+| 🚀 **Graduate Schemes / Traineeships** | `64` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `156` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `70` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `135` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `42` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `8` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
@@ -42,7 +42,7 @@
 | **Freshfields** | AI Solutions Engineer | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485313863) |
 | **GHD** | Graduate Site Civil Engineer | `Graduate Program` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484822100) |
 
-👉 **[Browse Full Searchable Directory (248 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (255 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
