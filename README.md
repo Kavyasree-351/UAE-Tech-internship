@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-262-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-264-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-10-31-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`262`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`264`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `36` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `64` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `162` | Junior / Associate entry-level roles |
+| 🚀 **Graduate Schemes / Traineeships** | `65` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `163` | Junior / Associate entry-level roles |
 | 💻 **Software Engineering** | `72` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `138` | Machine Learning, GenAI, Data Analytics |
+| 🤖 **AI & Data Science** | `140` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `44` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `8` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Revolut`, `Binance`, `Bybit`, `WSP in the Middle East`, `Deliveryhero`, `Ghobashgroup`
+`Jobgether`, `ByteDance`, `Revolut`, `Bybit`, `Binance`, `WSP in the Middle East`, `Deliveryhero`, `Ghobashgroup`
 
 ---
 
@@ -38,11 +38,11 @@
 | **MedTourEasy Hyderabad** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483418420) |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
 | **Stonegate Capital** | AI & Investment Technology Intern | `Internship` | AI & Data | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483459089) |
-| **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
-| **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) |
 | **MedTourEasy Navi Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483085155) |
+| **MedTourEasy Ghaziabad** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484825381) |
+| **Bybit** | Animator Intern | `Internship` | AI & Data | Abu Dhabi, UAE; APAC - Remote | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4974752101) |
 
-👉 **[Browse Full Searchable Directory (262 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (264 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
