@@ -1,6 +1,6 @@
 # 🎓 Full Directory: UAE Tech Internships & Early Careers
 
-**Last Synchronized:** `2026-10-30` | **Active Openings:** `257`
+**Last Synchronized:** `2026-10-31` | **Active Openings:** `258`
 
 > 💡 **Search Tip:** Press `Ctrl + F` (or `Cmd + F` on Mac) to search for specific roles, frameworks, companies, or cities (`Dubai`, `Abu Dhabi`, `Remote`).
 
@@ -20,13 +20,15 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply Link | Date Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Today's Entrepreneur** | Software Engineer Officer / Data Analyst Officer | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483923186) | 2026-10-31 |
+| **Paradox EN** | Product Manager PM - AI X EdTech - French Fluent 🇫🇷 | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485654507) | 2026-10-31 |
+| **MedTourEasy Vizag** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484828718) | 2026-10-31 |
 | **WSP in the Middle East** | Graduate Engineer- Mechanical _Emirati National | `Graduate Program` | Software Engineering | Sharjah, Sharjah Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4392590144) | 2026-10-30 |
 | **Siemens Energy** | Software Engineering Intern | `Internship` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4475903255) | 2026-10-30 |
 | **Point72** | Cubist Quantitative Researcher | `Early Career (0-2 yrs)` | Quant | Dubai, London, Paris, Hong Kong, Sydney, Toronto | [Apply ↗](https://boards.greenhouse.io/point72/jobs/7318012002?gh_jid=7318012002) | 2026-10-30 |
 | **Paradox EN** | Product Manager (PM) - AI x EdTech -  French fluent 🇫🇷 | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485372485) | 2026-10-30 |
 | **Nordhail** | Industrial AI Engineering Intern (MEng) | `Internship` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483458173) | 2026-10-30 |
 | **Millennium** | Quantitative Researcher, Quantitative Strategies | `Early Career (0-2 yrs)` | Quant | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4439427782) | 2026-10-30 |
-| **MedTourEasy Vizag** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484828718) | 2026-10-30 |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) | 2026-10-30 |
 | **MedTourEasy Navi Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483085155) | 2026-10-30 |
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) | 2026-10-30 |
@@ -276,11 +278,10 @@
 | **Elchai Group** | Unpaid Internship AI Governance and Orchestration | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4474049846) | 2026-10-06 |
 | **AECOM** | Graduate - Electrical Engineer إماراتيين (خلاصة القيد) | `Graduate Program` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4472804957) | 2026-10-05 |
 | **Deeplight AI** | Data Scientist | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484017504) | 2026-10-02 |
-| **SteerAI** | Robotics Engineer - Communication | `Early Career (0-2 yrs)` | Software Engineering | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4472913164) | 2026-10-01 |
 
 ---
 
-### 💻 Software Engineering (72 Roles)
+### 💻 Software Engineering (71 Roles)
 
 | Company | Role Title | Level | Location | Apply | Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -355,16 +356,16 @@
 | **Smyrooms, a brand of Grupo Viajes El Corte Inglés** | Software Developer (.NET) | `Early Career (0-2 yrs)` | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4474447232) | 2026-10-07 |
 | **Ghobashgroup** | Site Engineer Commissioning (HVAC) | `Early Career (0-2 yrs)` | Abu Dhabi, UAE | [Apply ↗](https://jobs.smartrecruiters.com/ghobashgroup/744000153701359) | 2026-10-06 |
 | **AECOM** | Graduate - Electrical Engineer إماراتيين (خلاصة القيد) | `Graduate Program` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4472804957) | 2026-10-05 |
-| **SteerAI** | Robotics Engineer - Communication | `Early Career (0-2 yrs)` | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4472913164) | 2026-10-01 |
 
 ---
 
-### 🤖 AI & Data Science (135 Roles)
+### 🤖 AI & Data Science (136 Roles)
 
 | Company | Role Title | Level | Location | Apply | Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Today's Entrepreneur** | Software Engineer Officer / Data Analyst Officer | `Early Career (0-2 yrs)` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483923186) | 2026-10-31 |
+| **MedTourEasy Vizag** | Data Analysis Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484828718) | 2026-10-31 |
 | **Nordhail** | Industrial AI Engineering Intern (MEng) | `Internship` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483458173) | 2026-10-30 |
-| **MedTourEasy Vizag** | Data Analysis Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484828718) | 2026-10-30 |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) | 2026-10-30 |
 | **MedTourEasy Navi Mumbai** | Data Analyst Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483085155) | 2026-10-30 |
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) | 2026-10-30 |
@@ -501,10 +502,11 @@
 
 ---
 
-### 📊 Product Management (APM) (42 Roles)
+### 📊 Product Management (APM) (43 Roles)
 
 | Company | Role Title | Level | Location | Apply | Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Paradox EN** | Product Manager PM - AI X EdTech - French Fluent 🇫🇷 | `Early Career (0-2 yrs)` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485654507) | 2026-10-31 |
 | **Paradox EN** | Product Manager (PM) - AI x EdTech -  French fluent 🇫🇷 | `Early Career (0-2 yrs)` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485372485) | 2026-10-30 |
 | **Binance** | Binance Accelerator Program - Internal Audit (Technology) | `Internship` | Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5002254101) | 2026-10-30 |
 | **Binance** | Internal Controls Specialist/ Manager (12 months Contract) | `Internship` | Hong Kong; Singapore; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5017147101) | 2026-10-30 |
