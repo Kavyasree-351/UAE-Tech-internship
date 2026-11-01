@@ -171,6 +171,15 @@
     "date_posted": "2026-10-31"
   },
   {
+    "company": "Vertiv",
+    "title": "Project Engineer NPDI",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4433071961",
+    "date_posted": "2026-10-31"
+  },
+  {
     "company": "MedTourEasy AP",
     "title": "Data Analyst Trainee",
     "category": "Graduate Program",
@@ -2142,15 +2151,6 @@
     "date_posted": "2026-10-12"
   },
   {
-    "company": "Vertiv",
-    "title": "Project Engineer NPDI",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4433071961",
-    "date_posted": "2026-10-12"
-  },
-  {
     "company": "CNS Middle East",
     "title": "Software Engineer - Emirati Talent",
     "category": "Early Career (0-2 yrs)",
@@ -2374,23 +2374,5 @@
     "location": "Dubai, Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4472804957",
     "date_posted": "2026-10-05"
-  },
-  {
-    "company": "Deeplight AI",
-    "title": "Data Scientist",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4484017504",
-    "date_posted": "2026-10-02"
-  },
-  {
-    "company": "Middlesex University Dubai",
-    "title": "Frontend Developer (SEO & AI Optimisation)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4472864693",
-    "date_posted": "2026-10-02"
   }
 ]
