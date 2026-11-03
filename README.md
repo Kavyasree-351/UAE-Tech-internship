@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-299-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-308-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-03-orange)
 
@@ -13,12 +13,12 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`299`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`308`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `44` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `69` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `186` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `88` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `154` | Machine Learning, GenAI, Data Analytics |
+| 🚀 **Graduate Schemes / Traineeships** | `72` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `192` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `94` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `157` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `48` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
@@ -42,7 +42,7 @@
 | **UMO** | Product Manager - Customer Experience | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484653930) |
 | **FinTop Consulting** | Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484670496) |
 
-👉 **[Browse Full Searchable Directory (299 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (308 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
