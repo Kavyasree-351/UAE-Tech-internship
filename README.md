@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-316-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-317-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-04-orange)
 
@@ -13,11 +13,11 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`316`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`317`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `45` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `73` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `198` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `99` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 💼 **Early Career (0–2 yrs)** | `199` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `100` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
 | 🤖 **AI & Data Science** | `158` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `49` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `10` | Quant Dev, Algo Trading, Financial Engineering |
@@ -42,7 +42,7 @@
 | **AAA Global** | Quantitative Researcher | `Early Career (0-2 yrs)` | Quant | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487249461) |
 | **CENSUS** | 🚀 CENSUS UAE Cybersecurity Engineering Internship Program: Learn. Hack. Secure! UAE | `Internship` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487270200) |
 
-👉 **[Browse Full Searchable Directory (316 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (317 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
