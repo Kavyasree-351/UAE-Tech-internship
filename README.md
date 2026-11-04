@@ -1,9 +1,9 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-308-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-307-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
-![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-03-orange)
+![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-04-orange)
 
 > **Curated directory of Software Engineering, AI/ML, Data Science, Quantitative Trading, and Associate Product Management (APM) opportunities for university students and fresh graduates (0–2 years) across the United Arab Emirates.**
 
@@ -13,11 +13,11 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`308`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`307`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `44` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `72` | Structured rotational & graduate cohorts |
+| 🚀 **Graduate Schemes / Traineeships** | `71` | Structured rotational & graduate cohorts |
 | 💼 **Early Career (0–2 yrs)** | `192` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `94` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 💻 **Software Engineering** | `93` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
 | 🤖 **AI & Data Science** | `157` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `48` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
@@ -31,10 +31,10 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) |
 | **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
 | **Ghobashgroup** | Field Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, UAE | [Apply ↗](https://jobs.smartrecruiters.com/ghobashgroup/744000159116750) |
-| **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
 | **MedTourEasy Dubai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485161567) |
 | **Binance** | Full Stack Engineer (Frontend Oriented) — Identity & Security | `Early Career (0-2 yrs)` | Software Engineering | Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) |
 | **Revolut** | Internship Programme 2027: Information Security Engineer (Appsec) | `Internship` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4433233279) |
@@ -42,7 +42,7 @@
 | **UMO** | Product Manager - Customer Experience | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484653930) |
 | **FinTop Consulting** | Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484670496) |
 
-👉 **[Browse Full Searchable Directory (308 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (307 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
