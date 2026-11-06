@@ -1,5 +1,14 @@
 [
   {
+    "company": "MedTourEasy UAE",
+    "title": "Data Analyst Trainee",
+    "category": "Graduate Program",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4486753669",
+    "date_posted": "2026-11-06"
+  },
+  {
     "company": "MedTourEasy AP",
     "title": "Data Analyst Trainee",
     "category": "Graduate Program",
@@ -321,6 +330,15 @@
     "discipline": "AI & Data",
     "location": "Dubai, Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4479562579",
+    "date_posted": "2026-11-05"
+  },
+  {
+    "company": "Citi",
+    "title": "Services - Summer Analyst, UAE - Dubai, 2027 (UAE Nationals ONLY)",
+    "category": "Internship",
+    "discipline": "AI & Data",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4475112818",
     "date_posted": "2026-11-05"
   },
   {
@@ -1401,15 +1419,6 @@
     "discipline": "Product Management (APM)",
     "location": "Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4484442159",
-    "date_posted": "2026-10-28"
-  },
-  {
-    "company": "Citi",
-    "title": "Services - Summer Analyst, UAE - Dubai, 2027 (UAE Nationals ONLY)",
-    "category": "Internship",
-    "discipline": "AI & Data",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4475112818",
     "date_posted": "2026-10-28"
   },
   {
@@ -2851,86 +2860,5 @@
     "location": "Dubai, Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4475939344",
     "date_posted": "2026-10-08"
-  },
-  {
-    "company": "InstaShop",
-    "title": "Associate Operations Training & Onboarding - instashop",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai",
-    "url": "https://jobs.smartrecruiters.com/DeliveryHero/744000154064000",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "Fortis",
-    "title": "Product Manager - Enterprise",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4476721182",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "Balio",
-    "title": "Product Manager",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4474469713",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "SaaS Ventures",
-    "title": "Founder's Associate Internship - Unpaid",
-    "category": "Internship",
-    "discipline": "AI & Data",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4474465609",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "QuanTech Partners",
-    "title": "Quantitative Developer (C++)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Quant",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4476598347",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "Smyrooms, a brand of Grupo Viajes El Corte Inglés",
-    "title": "Software Developer (.NET)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4474447232",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
-    "title": "Computing and Mathematical Sciences Division - Research Engineer: Statistics and Machine Learning",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4476527684",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "MBZUAI (Mohamed bin Zayed University of Artificial Intelligence)",
-    "title": "Computing and Mathematical Sciences Division - Research Engineer: AI for Weather Forecasting",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4476536388",
-    "date_posted": "2026-10-07"
-  },
-  {
-    "company": "Deliveryhero",
-    "title": "Associate Operations Training & Onboarding - instashop",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, UAE",
-    "url": "https://jobs.smartrecruiters.com/deliveryhero/744000154064000",
-    "date_posted": "2026-10-07"
   }
 ]

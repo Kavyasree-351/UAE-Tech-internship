@@ -1,9 +1,9 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-326-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-318-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
-![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-05-orange)
+![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-06-orange)
 
 > **Curated directory of Software Engineering, AI/ML, Data Science, Quantitative Trading, and Associate Product Management (APM) opportunities for university students and fresh graduates (0–2 years) across the United Arab Emirates.**
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`326`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `47` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `76` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `203` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `103` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `165` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `48` | Associate PM, Technical Product Analyst |
-| 📈 **Quantitative Trading** | `10` | Quant Dev, Algo Trading, Financial Engineering |
+| **Total Active Opportunities** | **`318`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `46` | Summer, Winter, Off-Cycle, and Co-op placements |
+| 🚀 **Graduate Schemes / Traineeships** | `77` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `195` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `102` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `161` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `46` | Associate PM, Technical Product Analyst |
+| 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Revolut`, `Ghobashgroup`, `Deliveryhero`, `Binance`, `Bybit`, `WSP in the Middle East`
+`Jobgether`, `ByteDance`, `Revolut`, `Ghobashgroup`, `Binance`, `Bybit`, `Deliveryhero`, `WSP in the Middle East`
 
 ---
 
@@ -31,6 +31,7 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **MedTourEasy UAE** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486753669) |
 | **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
 | **MedTourEasy Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486041929) |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
@@ -40,9 +41,8 @@
 | **MedTourEasy Bengaluru** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483057739) |
 | **Binance** | Full Stack Engineer (Frontend Oriented) — Identity & Security | `Early Career (0-2 yrs)` | Software Engineering | Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) |
 | **Binance** | Fraud & AML Investigation Analyst (Geofencing) — 12-Month Contract | `Early Career (0-2 yrs)` | AI & Data | Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5017478101) |
-| **Binance** | Internal Controls Specialist/ Manager (12 months Contract) | `Internship` | Product Management (APM) | Hong Kong; Singapore; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5017147101) |
 
-👉 **[Browse Full Searchable Directory (326 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (318 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
