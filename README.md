@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-328-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-333-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-07-orange)
 
@@ -13,12 +13,12 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`328`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `47` | Summer, Winter, Off-Cycle, and Co-op placements |
+| **Total Active Opportunities** | **`333`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `48` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `78` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `203` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `109` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `163` | Machine Learning, GenAI, Data Analytics |
+| 💼 **Early Career (0–2 yrs)** | `207` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `110` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `167` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `47` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
@@ -31,18 +31,18 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **MedTourEasy UAE** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486753669) |
-| **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
 | **MedTourEasy Dubai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485161567) |
 | **MedTourEasy Bengaluru** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483057739) |
-| **Binance** | Full Stack Engineer (Frontend Oriented) — Identity & Security | `Early Career (0-2 yrs)` | Software Engineering | Hong Kong; Singapore; Taiwan; United Arab Emirates | [Apply ↗](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) |
-| **Halian | Managed Services, Recruitment Agency & Contract Staffing** | Data Engineer (m/f/d) | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486578924) |
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) |
 | **MedTourEasy Navi Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483085155) |
-| **Okx** | Associate General Counsel | `Early Career (0-2 yrs)` | AI & Data | Remote Roles - EMEA; Sliema, Malta | [Apply ↗](https://job-boards.greenhouse.io/okx/jobs/8042769003) |
+| **MedTourEasy Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486041929) |
+| **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) |
+| **Diamond Living Real Estate** | AI Operations & Community Research Intern | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486626116) |
+| **Qatar Career Jobs** | AI Engineer | `Early Career (0-2 yrs)` | AI & Data | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486630994) |
+| **CJ Coaching** | NLP Engineer | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487619037) |
 
-👉 **[Browse Full Searchable Directory (328 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (333 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
