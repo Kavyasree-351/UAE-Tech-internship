@@ -1,5 +1,23 @@
 [
   {
+    "company": "MedTourEasy Bengaluru",
+    "title": "Data Analyst Trainee",
+    "category": "Graduate Program",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4483057739",
+    "date_posted": "2026-11-08"
+  },
+  {
+    "company": "Joblet-AI",
+    "title": "Junior Data Scientist (Remote)",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487645045",
+    "date_posted": "2026-11-08"
+  },
+  {
     "company": "MedTourEasy Singapore",
     "title": "Data Analytics Trainee",
     "category": "Graduate Program",
@@ -15,15 +33,6 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4485161567",
-    "date_posted": "2026-11-07"
-  },
-  {
-    "company": "MedTourEasy Bengaluru",
-    "title": "Data Analyst Trainee",
-    "category": "Graduate Program",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4483057739",
     "date_posted": "2026-11-07"
   },
   {
@@ -105,6 +114,15 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4484595902",
+    "date_posted": "2026-11-07"
+  },
+  {
+    "company": "SJA Pathway",
+    "title": "University Students – Web Developer (Unpaid Internship)",
+    "category": "Internship",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4474478866",
     "date_posted": "2026-11-07"
   },
   {
@@ -2968,32 +2986,5 @@
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4433217749",
     "date_posted": "2026-10-10"
-  },
-  {
-    "company": "noon",
-    "title": "Software Development Engineer (UAE Nationals)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477698571",
-    "date_posted": "2026-10-09"
-  },
-  {
-    "company": "Emirates Global Aluminium (EGA)",
-    "title": "Graduate Trainee Program",
-    "category": "Graduate Program",
-    "discipline": "AI & Data",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477657253",
-    "date_posted": "2026-10-09"
-  },
-  {
-    "company": "AiFi Technologies LLC",
-    "title": "Junior Systems Engineer - UAV Systems",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477699512",
-    "date_posted": "2026-10-09"
   }
 ]
