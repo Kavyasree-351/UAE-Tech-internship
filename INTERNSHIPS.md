@@ -1,6 +1,6 @@
 # 🎓 Full Directory: UAE Tech Internships & Early Careers
 
-**Last Synchronized:** `2026-11-08` | **Active Openings:** `333`
+**Last Synchronized:** `2026-11-08` | **Active Openings:** `334`
 
 > 💡 **Search Tip:** Press `Ctrl + F` (or `Cmd + F` on Mac) to search for specific roles, frameworks, companies, or cities (`Dubai`, `Abu Dhabi`, `Remote`).
 
@@ -20,9 +20,12 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply Link | Date Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Revolut** | Internship Programme 2027: Technology Services Specialist (IT Systems Engineer) | `Internship` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4461924705) | 2026-11-08 |
+| **New York University Abu Dhabi** | Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4324179613) | 2026-11-08 |
 | **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) | 2026-11-08 |
 | **MedTourEasy Bengaluru** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483057739) | 2026-11-08 |
 | **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) | 2026-11-08 |
+| **Fuse Energy** | AI Product Owner | `Early Career (0-2 yrs)` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488810074) | 2026-11-08 |
 | **Emirates Global Aluminium (EGA)** | Graduate Trainee Program | `Graduate Program` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488765847) | 2026-11-08 |
 | **SJA Pathway** | University Students – Web Developer (Unpaid Internship) | `Internship` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4474478866) | 2026-11-07 |
 | **Qatar Career Jobs** | AI Engineer | `Early Career (0-2 yrs)` | AI & Data | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486630994) | 2026-11-07 |
@@ -320,9 +323,7 @@
 | **COMPAGNIE MAROCAINE DE LA GÉOMATIQUE (CMG SARL)** | Quantitative Risk Analys | `Early Career (0-2 yrs)` | Quant | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4478251864) | 2026-10-19 |
 | **Brain Co.** | AI Product Engineer, Deployed | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4305796205) | 2026-10-19 |
 | **Alpaca** | Product Manager, Corporate Actions | `Early Career (0-2 yrs)` | Product Management (APM) | Remote - EMEA | [Apply ↗](https://job-boards.greenhouse.io/alpaca/jobs/6221638004) | 2026-10-19 |
-| **New York University Abu Dhabi** | Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4324179613) | 2026-10-18 |
 | **Siemens** | Siemens Graduate Engineer Opportunity (UAE Nationals) - RAK | `Graduate Program` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4470325576) | 2026-10-17 |
-| **Revolut** | Internship Programme 2027: Technology Services Specialist (IT Systems Engineer) | `Internship` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4461924705) | 2026-10-17 |
 | **Wood** | Graduate Instrument & Control Engineer (UAE National) | `Graduate Program` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4471493789) | 2026-10-16 |
 | **SUMWON STUDIOS** | Product Manager, Pricing | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4477703127) | 2026-10-16 |
 | **Astra Tech** | Junior Product Manager (Remittance) | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4479343540) | 2026-10-16 |
@@ -360,6 +361,7 @@
 
 | Company | Role Title | Level | Location | Apply | Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Revolut** | Internship Programme 2027: Technology Services Specialist (IT Systems Engineer) | `Internship` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4461924705) | 2026-11-08 |
 | **FAST VISIBILITY TECH :Google Certified Digital Marketing Agency** | Software Enginer / Cloud Engineer / Systems Developer | `Early Career (0-2 yrs)` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486634819) | 2026-11-07 |
 | **W Hotels** | Engineering Coordinator - Intern | `Internship` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486772762) | 2026-11-06 |
 | **Pakistan Influencer Awards** | Junior Software Engineer | `Early Career (0-2 yrs)` | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486997357) | 2026-11-06 |
@@ -454,7 +456,6 @@
 | **Wood** | Graduate Piping Engineer- (UAE National) | `Graduate Program` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4481551667) | 2026-10-20 |
 | **CAREL** | Junior Software Developer HVAC/R Controls - CAREL Middle East | `Early Career (0-2 yrs)` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4481706191) | 2026-10-20 |
 | **Siemens** | Siemens Graduate Engineer Opportunity (UAE Nationals) - RAK | `Graduate Program` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4470325576) | 2026-10-17 |
-| **Revolut** | Internship Programme 2027: Technology Services Specialist (IT Systems Engineer) | `Internship` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4461924705) | 2026-10-17 |
 | **Wood** | Graduate Instrument & Control Engineer (UAE National) | `Graduate Program` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4471493789) | 2026-10-16 |
 | **Tether.io** | Developer Productivity Engineer (100% Remote) | `Early Career (0-2 yrs)` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4479899436) | 2026-10-15 |
 | **TECEZE** | Contract Software Engineer | `Early Career (0-2 yrs)` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4478853049) | 2026-10-15 |
@@ -471,13 +472,15 @@
 
 ---
 
-### 🤖 AI & Data Science (169 Roles)
+### 🤖 AI & Data Science (170 Roles)
 
 | Company | Role Title | Level | Location | Apply | Posted |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **New York University Abu Dhabi** | Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef | `Early Career (0-2 yrs)` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4324179613) | 2026-11-08 |
 | **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) | 2026-11-08 |
 | **MedTourEasy Bengaluru** | Data Analyst Trainee | `Graduate Program` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483057739) | 2026-11-08 |
 | **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) | 2026-11-08 |
+| **Fuse Energy** | AI Product Owner | `Early Career (0-2 yrs)` | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488810074) | 2026-11-08 |
 | **Emirates Global Aluminium (EGA)** | Graduate Trainee Program | `Graduate Program` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488765847) | 2026-11-08 |
 | **SJA Pathway** | University Students – Web Developer (Unpaid Internship) | `Internship` | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4474478866) | 2026-11-07 |
 | **Qatar Career Jobs** | AI Engineer | `Early Career (0-2 yrs)` | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486630994) | 2026-11-07 |
@@ -633,7 +636,6 @@
 | **United Arab Emirates University, Department of Family Medicine** | Data Engineer | `Early Career (0-2 yrs)` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4480210947) | 2026-10-19 |
 | **Gloria Jeans** | Artificial Intelligence Engineer | `Early Career (0-2 yrs)` | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4478279127) | 2026-10-19 |
 | **Brain Co.** | AI Product Engineer, Deployed | `Early Career (0-2 yrs)` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4305796205) | 2026-10-19 |
-| **New York University Abu Dhabi** | Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef | `Early Career (0-2 yrs)` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4324179613) | 2026-10-18 |
 | **Wood** | Trainee Civil Designer (UAE Nationals) | `Graduate Program` | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4479804470) | 2026-10-15 |
 | **Deliveryhero** | Applied AI Manager | `Early Career (0-2 yrs)` | Dubai, UAE | [Apply ↗](https://jobs.smartrecruiters.com/deliveryhero/744000155680729) | 2026-10-15 |
 | **Delivery Hero / Talabat** | Applied AI Manager | `Early Career (0-2 yrs)` | Dubai | [Apply ↗](https://jobs.smartrecruiters.com/DeliveryHero/744000155680729) | 2026-10-15 |
