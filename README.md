@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-332-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-344-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-09-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`332`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `49` | Summer, Winter, Off-Cycle, and Co-op placements |
+| **Total Active Opportunities** | **`344`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `52` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `77` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `206` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `107` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `169` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `47` | Associate PM, Technical Product Analyst |
+| 💼 **Early Career (0–2 yrs)** | `215` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `110` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `174` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `51` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Revolut`, `Ghobashgroup`, `Binance`, `Deliveryhero`, `Bybit`, `WSP in the Middle East`
+`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Deliveryhero`, `Bybit`, `Loftorbital`
 
 ---
 
@@ -31,18 +31,18 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **MedTourEasy Bengaluru** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483057739) |
-| **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) |
 | **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) |
-| **Emirates Global Aluminium (EGA)** | Graduate Trainee Program | `Graduate Program` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488765847) |
-| **New York University Abu Dhabi** | Research Engineer in the Center for Interdisciplinary Data Science and Artificial Intelligence (CIDSAI) - Dr. Pierre Youssef | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4324179613) |
-| **Revolut** | Internship Programme 2027: Technology Services Specialist (IT Systems Engineer) | `Internship` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4461924705) |
-| **Fuse Energy** | AI Product Owner | `Early Career (0-2 yrs)` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488810074) |
-| **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
-| **MedTourEasy Dubai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485161567) |
-| **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) |
+| **Deliveryhero** | Specialist Operations Training & Onboarding - instashop | `Early Career (0-2 yrs)` | AI & Data | Dubai, UAE | [Apply ↗](https://jobs.smartrecruiters.com/deliveryhero/744000159371549) |
+| **Brain Co.** | AI Product Engineer, Deployed | `Early Career (0-2 yrs)` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4305796205) |
+| **Wood** | Trainee Civil Designer (UAE Nationals) | `Graduate Program` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4479804470) |
+| **NEXA - Digital Marketing** | Artificial Intelligence Intern | `Internship` | AI & Data | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487686693) |
+| **Soar** | Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488866090) |
+| **PROJECX** | Technical Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487122815) |
+| **CargoX** | Product Manager (CoreConnect) | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4488856001) |
+| **Siemens Energy** | AI Intern - UAE National | `Internship` | AI & Data | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487915046) |
+| **Joblet-AI** | Fullstack Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487667844) |
 
-👉 **[Browse Full Searchable Directory (332 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (344 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
