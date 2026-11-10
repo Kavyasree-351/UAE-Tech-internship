@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-383-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-388-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-10-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`383`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`388`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `53` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `83` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `247` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `120` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `198` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `56` | Associate PM, Technical Product Analyst |
+| 🚀 **Graduate Schemes / Traineeships** | `84` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `251` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `122` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `200` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `57` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `9` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Deliveryhero`, `Bybit`, `Loftorbital`
+`Jobgether`, `ByteDance`, `Binance`, `Ghobashgroup`, `Revolut`, `Deliveryhero`, `Bybit`, `Loftorbital`
 
 ---
 
@@ -42,7 +42,7 @@
 | **Egis** | Pre Graduate Engineer (UAE National)- Electrical or Mechanical | `Graduate Program` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489415575) |
 | **Jobgether** | Product Manager | `Early Career (0-2 yrs)` | Product Management (APM) | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487455417) |
 
-👉 **[Browse Full Searchable Directory (383 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (388 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
