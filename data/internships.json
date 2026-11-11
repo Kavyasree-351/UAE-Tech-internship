@@ -1,5 +1,23 @@
 [
   {
+    "company": "MedTourEasy Navi Mumbai",
+    "title": "Data Analyst Trainee",
+    "category": "Graduate Program",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4483085155",
+    "date_posted": "2026-11-11"
+  },
+  {
+    "company": "Joblet-AI",
+    "title": "Fullstack Software Engineer (Remote)",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487667844",
+    "date_posted": "2026-11-11"
+  },
+  {
     "company": "MedTourEasy Jaipur",
     "title": "Data Analytics Trainee",
     "category": "Graduate Program",
@@ -24,15 +42,6 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4483058536",
-    "date_posted": "2026-11-10"
-  },
-  {
-    "company": "MedTourEasy Navi Mumbai",
-    "title": "Data Analyst Trainee",
-    "category": "Graduate Program",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4483085155",
     "date_posted": "2026-11-10"
   },
   {
@@ -171,15 +180,6 @@
     "date_posted": "2026-11-10"
   },
   {
-    "company": "Joblet-AI",
-    "title": "Fullstack Software Engineer (Remote)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4487667844",
-    "date_posted": "2026-11-10"
-  },
-  {
     "company": "MedTourEasy Dubai",
     "title": "Data Analyst Trainee",
     "category": "Graduate Program",
@@ -267,6 +267,24 @@
     "discipline": "AI & Data",
     "location": "Remote - EMEA",
     "url": "https://job-boards.greenhouse.io/alpaca/jobs/6254372004",
+    "date_posted": "2026-11-10"
+  },
+  {
+    "company": "Barclays",
+    "title": "Sales, Trading and Structuring Off Cycle Internship Programme 2027 Dubai",
+    "category": "Internship",
+    "discipline": "AI & Data",
+    "location": "Dubai, Dubai, United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487844651",
+    "date_posted": "2026-11-10"
+  },
+  {
+    "company": "Kraken",
+    "title": "Software Engineer - Database - Bitnomial",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4488642332",
     "date_posted": "2026-11-10"
   },
   {
@@ -3418,77 +3436,5 @@
     "location": "Remote - EMEA",
     "url": "https://job-boards.greenhouse.io/alpaca/jobs/6144564004",
     "date_posted": "2026-10-13"
-  },
-  {
-    "company": "Amazon",
-    "title": "BIE engineer- UAE National",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4469823642",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "Accenture Middle East",
-    "title": "Accenture Apprenticeship Program | HR, IT & Finance (UAE Nationals Only) | Dubai Office",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477283681",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "Ghobashgroup",
-    "title": "Software Engineer - Emirati Talent",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Dubai, UAE",
-    "url": "https://jobs.smartrecruiters.com/ghobashgroup/744000154981889",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "Ansen Technology",
-    "title": "Product Manager",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4478385573",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "National Bank of Fujairah (NBF)",
-    "title": "Manager – Retail Liability Products",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4476007103",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "CNS Middle East",
-    "title": "Software Engineer - Emirati Talent",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4475697814",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "Murphy AI",
-    "title": "Forward Deployed Engineer, Mid-Market - Dubai 🇦🇪",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477563948",
-    "date_posted": "2026-10-12"
-  },
-  {
-    "company": "Loftorbital",
-    "title": "Satellite Operations Engineer",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Abu Dhabi",
-    "url": "https://jobs.lever.co/loftorbital/bc16e2e5-65a3-412d-a186-1b9ea2a4e61c",
-    "date_posted": "2026-10-12"
   }
 ]
