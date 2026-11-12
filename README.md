@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-397-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-408-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-12-orange)
 
@@ -13,13 +13,13 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`397`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `55` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `88` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `254` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `126` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `203` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `58` | Associate PM, Technical Product Analyst |
+| **Total Active Opportunities** | **`408`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `56` | Summer, Winter, Off-Cycle, and Co-op placements |
+| 🚀 **Graduate Schemes / Traineeships** | `89` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `263` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `131` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `208` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `59` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `10` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
@@ -42,7 +42,7 @@
 | **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) |
 | **MedTourEasy Dubai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4485161567) |
 
-👉 **[Browse Full Searchable Directory (397 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (408 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
