@@ -1,5 +1,41 @@
 [
   {
+    "company": "Joblet-AI",
+    "title": "Fullstack Software Engineer (Remote)",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487667844",
+    "date_posted": "2026-11-13"
+  },
+  {
+    "company": "MedTourEasy Mumbai",
+    "title": "Data Analyst Trainee",
+    "category": "Graduate Program",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4486041929",
+    "date_posted": "2026-11-13"
+  },
+  {
+    "company": "Joblet-AI",
+    "title": "Junior Software Engineer (Remote)",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487986433",
+    "date_posted": "2026-11-13"
+  },
+  {
+    "company": "MedTourEasy AP",
+    "title": "Data Analyst Trainee",
+    "category": "Graduate Program",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4484595902",
+    "date_posted": "2026-11-13"
+  },
+  {
     "company": "MedTourEasy Navi Mumbai",
     "title": "Data Analyst Trainee",
     "category": "Graduate Program",
@@ -10,47 +46,11 @@
   },
   {
     "company": "Joblet-AI",
-    "title": "Fullstack Software Engineer (Remote)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4487667844",
-    "date_posted": "2026-11-12"
-  },
-  {
-    "company": "MedTourEasy Mumbai",
-    "title": "Data Analyst Trainee",
-    "category": "Graduate Program",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4486041929",
-    "date_posted": "2026-11-12"
-  },
-  {
-    "company": "Joblet-AI",
-    "title": "Junior Software Engineer (Remote)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4487986433",
-    "date_posted": "2026-11-12"
-  },
-  {
-    "company": "Joblet-AI",
     "title": "Junior Data Scientist (Remote)",
     "category": "Early Career (0-2 yrs)",
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4487645045",
-    "date_posted": "2026-11-12"
-  },
-  {
-    "company": "MedTourEasy AP",
-    "title": "Data Analyst Trainee",
-    "category": "Graduate Program",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4484595902",
     "date_posted": "2026-11-12"
   },
   {
@@ -276,6 +276,42 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://jobs.lever.co/jobgether/19efa634-309b-4a78-b57c-131889ac0929",
+    "date_posted": "2026-11-12"
+  },
+  {
+    "company": "Binance",
+    "title": "MLRO - ADGM",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002479101",
+    "date_posted": "2026-11-12"
+  },
+  {
+    "company": "Binance",
+    "title": "Full Stack Engineer (Frontend Oriented) — Identity & Security",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "Hong Kong; Singapore; Taiwan; United Arab Emirates",
+    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
+    "date_posted": "2026-11-12"
+  },
+  {
+    "company": "Binance",
+    "title": "Binance Accelerator Program - Internal Audit (Technology)",
+    "category": "Internship",
+    "discipline": "Product Management (APM)",
+    "location": "Hong Kong; Singapore; Taiwan; United Arab Emirates",
+    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002254101",
+    "date_posted": "2026-11-12"
+  },
+  {
+    "company": "Binance",
+    "title": "Internal Controls Specialist/ Manager (12 months Contract)",
+    "category": "Internship",
+    "discipline": "Product Management (APM)",
+    "location": "Hong Kong; Singapore; United Arab Emirates",
+    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5017147101",
     "date_posted": "2026-11-12"
   },
   {
@@ -756,15 +792,6 @@
     "date_posted": "2026-11-09"
   },
   {
-    "company": "Binance",
-    "title": "MLRO - ADGM",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002479101",
-    "date_posted": "2026-11-09"
-  },
-  {
     "company": "GE HealthCare",
     "title": "Early Career Trainee, Commercial Enablement",
     "category": "Graduate Program",
@@ -918,6 +945,15 @@
     "date_posted": "2026-11-08"
   },
   {
+    "company": "StecDi - Schulz Tecnologia Digital",
+    "title": "Java Software Engineer",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "Software Engineering",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4486681387",
+    "date_posted": "2026-11-08"
+  },
+  {
     "company": "Diamond Living Real Estate",
     "title": "AI Operations & Community Research Intern",
     "category": "Internship",
@@ -978,15 +1014,6 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4486753669",
-    "date_posted": "2026-11-06"
-  },
-  {
-    "company": "Binance",
-    "title": "Full Stack Engineer (Frontend Oriented) — Identity & Security",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Hong Kong; Singapore; Taiwan; United Arab Emirates",
-    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
     "date_posted": "2026-11-06"
   },
   {
@@ -1215,30 +1242,12 @@
     "date_posted": "2026-11-06"
   },
   {
-    "company": "Binance",
-    "title": "Binance Accelerator Program - Internal Audit (Technology)",
-    "category": "Internship",
-    "discipline": "Product Management (APM)",
-    "location": "Hong Kong; Singapore; Taiwan; United Arab Emirates",
-    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002254101",
-    "date_posted": "2026-11-05"
-  },
-  {
     "company": "WSP in the Middle East",
     "title": "Graduate – Artificial Intelligence (Emirati National)",
     "category": "Graduate Program",
     "discipline": "AI & Data",
     "location": "Sharjah, Sharjah Emirate, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4373122430",
-    "date_posted": "2026-11-05"
-  },
-  {
-    "company": "Binance",
-    "title": "Internal Controls Specialist/ Manager (12 months Contract)",
-    "category": "Internship",
-    "discipline": "Product Management (APM)",
-    "location": "Hong Kong; Singapore; United Arab Emirates",
-    "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5017147101",
     "date_posted": "2026-11-05"
   },
   {
@@ -3625,50 +3634,5 @@
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4479899436",
     "date_posted": "2026-10-15"
-  },
-  {
-    "company": "OMODA JAECOO UAE",
-    "title": "Automotive Product Manager",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4478438675",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "company": "Boundless",
-    "title": "Quantitative AI/ML Engineer – Trading & Risk",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4479284531",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "company": "United Arab Emirates University, Department of Family Medicine",
-    "title": "Software Engineer",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Software Engineering",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4478449307",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "company": "WSP in the Middle East",
-    "title": "Graduate Engineer – Transport Planning & Mobility (Emirati National)",
-    "category": "Graduate Program",
-    "discipline": "Software Engineering",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4379827247",
-    "date_posted": "2026-10-14"
-  },
-  {
-    "company": "Egis",
-    "title": "Graduate Engineer - Wet Utilities (UAE National)",
-    "category": "Graduate Program",
-    "discipline": "Software Engineering",
-    "location": "Dubai, Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4478384858",
-    "date_posted": "2026-10-14"
   }
 ]
