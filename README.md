@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-413-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-414-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-14-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`413`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`414`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `57` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `89` | Structured rotational & graduate cohorts |
+| 🚀 **Graduate Schemes / Traineeships** | `90` | Structured rotational & graduate cohorts |
 | 💼 **Early Career (0–2 yrs)** | `267` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `130` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 💻 **Software Engineering** | `131` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
 | 🤖 **AI & Data Science** | `212` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `60` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `11` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Binance`, `Ghobashgroup`, `Revolut`, `Bybit`, `Siemens Energy`, `Wood`
+`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Bybit`, `Siemens Energy`, `Wood`
 
 ---
 
@@ -42,7 +42,7 @@
 | **Artefact** | Junior Backend Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4457093793) |
 | **Siemens Energy** | Engineering Apprenticeship Program - UAE National | `Early Career (0-2 yrs)` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4446743971) |
 
-👉 **[Browse Full Searchable Directory (413 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (414 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
