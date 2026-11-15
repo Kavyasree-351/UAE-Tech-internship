@@ -1,9 +1,9 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-414-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-410-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
-![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-14-orange)
+![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-15-orange)
 
 > **Curated directory of Software Engineering, AI/ML, Data Science, Quantitative Trading, and Associate Product Management (APM) opportunities for university students and fresh graduates (0–2 years) across the United Arab Emirates.**
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`414`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`410`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `57` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `90` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `267` | Junior / Associate entry-level roles |
+| 💼 **Early Career (0–2 yrs)** | `263` | Junior / Associate entry-level roles |
 | 💻 **Software Engineering** | `131` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `212` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `60` | Associate PM, Technical Product Analyst |
+| 🤖 **AI & Data Science** | `211` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `57` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `11` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Bybit`, `Siemens Energy`, `Wood`
+`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Bybit`, `Siemens Energy`, `Deliveryhero`
 
 ---
 
@@ -31,10 +31,10 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
+| **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) |
 | **Joblet-AI** | Fullstack Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487667844) |
 | **Joblet-AI** | Junior Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487986433) |
 | **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
-| **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) |
 | **Digital Agency Co** | Product Manager / Digital Product Manager / Product Owner | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489849820) |
 | **MedTourEasy Singapore** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4483058536) |
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) |
@@ -42,7 +42,7 @@
 | **Artefact** | Junior Backend Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4457093793) |
 | **Siemens Energy** | Engineering Apprenticeship Program - UAE National | `Early Career (0-2 yrs)` | Software Engineering | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4446743971) |
 
-👉 **[Browse Full Searchable Directory (414 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (410 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 

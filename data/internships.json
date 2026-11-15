@@ -1,6 +1,15 @@
 [
   {
     "company": "Joblet-AI",
+    "title": "Junior Data Scientist (Remote)",
+    "category": "Early Career (0-2 yrs)",
+    "discipline": "AI & Data",
+    "location": "United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4487645045",
+    "date_posted": "2026-11-15"
+  },
+  {
+    "company": "Joblet-AI",
     "title": "Fullstack Software Engineer (Remote)",
     "category": "Early Career (0-2 yrs)",
     "discipline": "Software Engineering",
@@ -24,15 +33,6 @@
     "discipline": "AI & Data",
     "location": "United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4484595902",
-    "date_posted": "2026-11-14"
-  },
-  {
-    "company": "Joblet-AI",
-    "title": "Junior Data Scientist (Remote)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4487645045",
     "date_posted": "2026-11-14"
   },
   {
@@ -159,6 +159,15 @@
     "discipline": "Software Engineering",
     "location": "Dubai, Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4465684052",
+    "date_posted": "2026-11-14"
+  },
+  {
+    "company": "TALENTMATE",
+    "title": "Pre Graduate Project Engineer UAE National",
+    "category": "Graduate Program",
+    "discipline": "Software Engineering",
+    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
+    "url": "https://www.linkedin.com/jobs/view/4491204783",
     "date_posted": "2026-11-14"
   },
   {
@@ -3679,50 +3688,5 @@
     "location": "Dubai, Dubai, United Arab Emirates",
     "url": "https://www.linkedin.com/jobs/view/4470325576",
     "date_posted": "2026-10-17"
-  },
-  {
-    "company": "Apparel Group",
-    "title": "Assistant Product Manager",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477377200",
-    "date_posted": "2026-10-16"
-  },
-  {
-    "company": "SUMWON STUDIOS",
-    "title": "Product Manager, Pricing",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477703127",
-    "date_posted": "2026-10-16"
-  },
-  {
-    "company": "Wood",
-    "title": "Graduate Instrument & Control Engineer (UAE National)",
-    "category": "Graduate Program",
-    "discipline": "Software Engineering",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4471493789",
-    "date_posted": "2026-10-16"
-  },
-  {
-    "company": "Astra Tech",
-    "title": "Junior Product Manager (Remittance)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "Product Management (APM)",
-    "location": "Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4479343540",
-    "date_posted": "2026-10-16"
-  },
-  {
-    "company": "Dubai Holding",
-    "title": "Manager – Product Management (Corporate AI)",
-    "category": "Early Career (0-2 yrs)",
-    "discipline": "AI & Data",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://www.linkedin.com/jobs/view/4477363265",
-    "date_posted": "2026-10-16"
   }
 ]
