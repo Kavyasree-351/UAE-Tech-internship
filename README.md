@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-413-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-416-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-15-orange)
 
@@ -13,17 +13,17 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`413`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`416`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `57` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `90` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `266` | Junior / Associate entry-level roles |
+| 💼 **Early Career (0–2 yrs)** | `269` | Junior / Associate entry-level roles |
 | 💻 **Software Engineering** | `132` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `211` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `59` | Associate PM, Technical Product Analyst |
+| 🤖 **AI & Data Science** | `212` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `61` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `11` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
-`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Bybit`, `Siemens Energy`, `Deliveryhero`
+`Jobgether`, `ByteDance`, `Binance`, `Revolut`, `Ghobashgroup`, `Bybit`, `Deliveryhero`, `WSP in the Middle East`
 
 ---
 
@@ -38,11 +38,11 @@
 | **ByteDance** | AI Product Manager Graduate (Corporate Information Systems - AI Vertical Scenarios) - 2027 Start | `Graduate Program` | Product Management (APM) | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4475059329) |
 | **ByteDance** | GenAI Sales Development Representative Intern (BytePlus) - 2027 Start | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4475057364) |
 | **Joblet-AI** | Electron Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490202912) |
-| **Joblet-AI** | Fullstack Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487667844) |
-| **MedTourEasy AP** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484595902) |
-| **Digital Agency Co** | Product Manager / Digital Product Manager / Product Owner | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489849820) |
+| **MedTourEasy Delhi** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484554761) |
+| **BCG X** | Visiting Forward Deployed AI Scientist, Internship, Middle East - BCG X | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4455453875) |
+| **WSP in the Middle East** | Graduate Engineer - Building Structures _ (Emirati National) | `Graduate Program` | Software Engineering | Sharjah, Sharjah Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4463466778) |
 
-👉 **[Browse Full Searchable Directory (413 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (416 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
