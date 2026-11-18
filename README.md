@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-467-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-471-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-18-orange)
 
@@ -13,13 +13,13 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`467`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`471`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `66` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `100` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `301` | Junior / Associate entry-level roles |
+| 💼 **Early Career (0–2 yrs)** | `305` | Junior / Associate entry-level roles |
 | 💻 **Software Engineering** | `150` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `237` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `66` | Associate PM, Technical Product Analyst |
+| 🤖 **AI & Data Science** | `240` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `67` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `14` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
@@ -42,7 +42,7 @@
 | **Jobgether** | Product Manager – AI-First EdTech (PO / Technical BA welcome) | `Early Career (0-2 yrs)` | Product Management (APM) | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490851151) |
 | **MedTourEasy AP** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4491848456) |
 
-👉 **[Browse Full Searchable Directory (467 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (471 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
