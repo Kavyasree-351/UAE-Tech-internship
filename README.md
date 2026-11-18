@@ -1,9 +1,9 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-456-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-455-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
-![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-17-orange)
+![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-18-orange)
 
 > **Curated directory of Software Engineering, AI/ML, Data Science, Quantitative Trading, and Associate Product Management (APM) opportunities for university students and fresh graduates (0–2 years) across the United Arab Emirates.**
 
@@ -13,14 +13,14 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`456`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| **Total Active Opportunities** | **`455`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
 | 🎓 **Internships** | `66` | Summer, Winter, Off-Cycle, and Co-op placements |
-| 🚀 **Graduate Schemes / Traineeships** | `96` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `294` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `145` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `233` | Machine Learning, GenAI, Data Analytics |
+| 🚀 **Graduate Schemes / Traineeships** | `97` | Structured rotational & graduate cohorts |
+| 💼 **Early Career (0–2 yrs)** | `292` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `146` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `232` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `65` | Associate PM, Technical Product Analyst |
-| 📈 **Quantitative Trading** | `13` | Quant Dev, Algo Trading, Financial Engineering |
+| 📈 **Quantitative Trading** | `12` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
 `Jobgether`, `ByteDance`, `Bybit`, `Binance`, `Revolut`, `Ghobashgroup`, `TALENTMATE`, `Deliveryhero`
@@ -42,7 +42,7 @@
 | **MedTourEasy Jaipur** | Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4484538597) |
 | **MedTourEasy Bengaluru** | AI Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489576123) |
 
-👉 **[Browse Full Searchable Directory (456 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (455 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
