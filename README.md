@@ -38,9 +38,9 @@
 | **Tech Spectrum AI Solutions** | Data Research Analyst | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4493154991) |
 | **Amazon Jobs- Amazon Marketing, SEO, Ecommerce Advertising, Seller Central, FBA** | Integration Engineer | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4493190617) |
 | **Amazon Usa Honest seller and Buyer Group** | Blockchain Developer | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4493500126) |
+| **Amazon Web Services (AWS)** | Data Center Technician - 2027 Internship | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4477830845) |
 | **Joblet-AI** | Electron Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490202912) |
 | **BNESIM** | AI Data Analytics Intern | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4481689057) |
-| **MedTourEasy Navi Mumbai** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490446298) |
 
 👉 **[Browse Full Searchable Directory (477 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
