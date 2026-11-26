@@ -1,7 +1,7 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-472-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-477-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
 ![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-26-orange)
 
@@ -13,13 +13,13 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`472`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `64` | Summer, Winter, Off-Cycle, and Co-op placements |
+| **Total Active Opportunities** | **`477`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `65` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `102` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `306` | Junior / Associate entry-level roles |
+| 💼 **Early Career (0–2 yrs)** | `310` | Junior / Associate entry-level roles |
 | 💻 **Software Engineering** | `152` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `240` | Machine Learning, GenAI, Data Analytics |
-| 📱 **Product Management (APM)** | `63` | Associate PM, Technical Product Analyst |
+| 🤖 **AI & Data Science** | `242` | Machine Learning, GenAI, Data Analytics |
+| 📱 **Product Management (APM)** | `66` | Associate PM, Technical Product Analyst |
 | 📈 **Quantitative Trading** | `17` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
@@ -35,14 +35,14 @@
 | **MedTourEasy Bengaluru** | AI Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489576123) |
 | **Joblet-AI** | Junior Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487986433) |
 | **MedTourEasy Navi Mumbai** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490446298) |
-| **MedTourEasy AP** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4491848456) |
 | **MedTourEasy Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486041929) |
-| **Bybit** | Security Compliance Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/5019120101) |
-| **Bybit** | Security Management  Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/5019129101) |
-| **Bybit** | Security Operations Engineer | `Early Career (0-2 yrs)` | Software Engineering | Dubai, UAE | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/5019167101) |
-| **WSP in the Middle East** | Graduate – Artificial Intelligence (Emirati National) | `Graduate Program` | AI & Data | Sharjah, Sharjah Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4373122430) |
+| **Bybit** | Product Manager, Growth Intelligence | `Early Career (0-2 yrs)` | Product Management (APM) | Abu Dhabi, UAE; Kuala Lumpur, Malaysia | [Apply ↗](https://job-boards.eu.greenhouse.io/bybit/jobs/4941932101) |
+| **Joblet-AI** | Junior Data Scientist (Remote) | `Early Career (0-2 yrs)` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487645045) |
+| **MedTourEasy Jaipur** | AI Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4494701456) |
+| **New York University Abu Dhabi** | Path 1 Kawader: Research Assistant – Software Analysis and Developer Support (SANAD) Lab | `Early Career (0-2 yrs)` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4433650882) |
+| **Vanderlande** | IT Intern Trainee | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4495011939) |
 
-👉 **[Browse Full Searchable Directory (472 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (477 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
