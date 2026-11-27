@@ -1,9 +1,9 @@
 # 🇦🇪 UAE Tech Internships & Early-Career Opportunities
 
 [![Auto-Sync Tech Listings](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml/badge.svg)](https://github.com/Kavyasree-351/UAE-Tech-internship/actions/workflows/auto_sync.yml)
-![Active Opportunities](https://img.shields.io/badge/Active%20Positions-477-brightgreen)
+![Active Opportunities](https://img.shields.io/badge/Active%20Positions-462-brightgreen)
 ![Target Region](https://img.shields.io/badge/Region-Dubai%20%7C%20Abu%20Dhabi%20%7C%20UAE-blue)
-![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-26-orange)
+![Last Synchronized](https://img.shields.io/badge/Last%20Updated-2026-11-27-orange)
 
 > **Curated directory of Software Engineering, AI/ML, Data Science, Quantitative Trading, and Associate Product Management (APM) opportunities for university students and fresh graduates (0–2 years) across the United Arab Emirates.**
 
@@ -13,14 +13,14 @@
 
 | Metric | Count | Highlight Disciplines & Levels |
 | :--- | :--- | :--- |
-| **Total Active Opportunities** | **`477`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
-| 🎓 **Internships** | `65` | Summer, Winter, Off-Cycle, and Co-op placements |
+| **Total Active Opportunities** | **`462`** | Across Dubai, Abu Dhabi, Sharjah & UAE-Remote |
+| 🎓 **Internships** | `64` | Summer, Winter, Off-Cycle, and Co-op placements |
 | 🚀 **Graduate Schemes / Traineeships** | `102` | Structured rotational & graduate cohorts |
-| 💼 **Early Career (0–2 yrs)** | `310` | Junior / Associate entry-level roles |
-| 💻 **Software Engineering** | `152` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
-| 🤖 **AI & Data Science** | `242` | Machine Learning, GenAI, Data Analytics |
+| 💼 **Early Career (0–2 yrs)** | `296` | Junior / Associate entry-level roles |
+| 💻 **Software Engineering** | `146` | Backend, Frontend, Full Stack, Mobile, DevOps, SRE |
+| 🤖 **AI & Data Science** | `234` | Machine Learning, GenAI, Data Analytics |
 | 📱 **Product Management (APM)** | `66` | Associate PM, Technical Product Analyst |
-| 📈 **Quantitative Trading** | `17` | Quant Dev, Algo Trading, Financial Engineering |
+| 📈 **Quantitative Trading** | `16` | Quant Dev, Algo Trading, Financial Engineering |
 
 **Top Hiring Employers in UAE:**  
 `Jobgether`, `TALENTMATE`, `ByteDance`, `Bybit`, `Binance`, `Wood`, `Ghobashgroup`, `Revolut`
@@ -31,8 +31,8 @@
 
 | Company | Role Title | Category | Discipline | Location | Apply |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Joblet-AI** | Fullstack Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487667844) |
 | **MedTourEasy Bengaluru** | AI Data Analytics Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4489576123) |
+| **Joblet-AI** | Fullstack Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487667844) |
 | **Joblet-AI** | Junior Software Engineer (Remote) | `Early Career (0-2 yrs)` | Software Engineering | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4487986433) |
 | **MedTourEasy Navi Mumbai** | Data Analysis Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4490446298) |
 | **MedTourEasy Mumbai** | Data Analyst Trainee | `Graduate Program` | AI & Data | United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4486041929) |
@@ -42,7 +42,7 @@
 | **New York University Abu Dhabi** | Path 1 Kawader: Research Assistant – Software Analysis and Developer Support (SANAD) Lab | `Early Career (0-2 yrs)` | Software Engineering | Abu Dhabi, Abu Dhabi Emirate, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4433650882) |
 | **Vanderlande** | IT Intern Trainee | `Internship` | AI & Data | Dubai, Dubai, United Arab Emirates | [Apply ↗](https://www.linkedin.com/jobs/view/4495011939) |
 
-👉 **[Browse Full Searchable Directory (477 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
+👉 **[Browse Full Searchable Directory (462 Roles) in INTERNSHIPS.md →](./INTERNSHIPS.md)**
 
 ---
 
